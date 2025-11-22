@@ -62,7 +62,8 @@ xlabel("Power Received");
 ylabel("Gain");
 ```
 __Tabulation__:
-![Uploading WhatsApp Image 2025-11-22 at 08.41.02_e617d062.jpg…]()
+![WhatsApp Image 2025-11-22 at 08 41 02_e617d062](https://github.com/user-attachments/assets/3e4be87a-09de-4257-8843-33cf187c2342)
+
 
 
  __Output__:
